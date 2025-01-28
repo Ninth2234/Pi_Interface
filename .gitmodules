@@ -1,3 +1,0 @@
-[submodule "example"]
-    path = Micropython
-    url = https://github.com/RaspberryPiFoundation/picozero/tree/main/picozero
