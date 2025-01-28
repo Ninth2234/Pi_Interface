@@ -1,0 +1,6 @@
+[submodule "ST7567"]
+    path = Micropython/lib/
+    url = https://github.com/ChangboBro/ST7567-micropython-framebuff.git/ST7567.py
+[submodule "lib/ST7567"]
+	path = lib/ST7567
+	url = https://github.com/ChangboBro/ST7567-micropython-framebuff.git
