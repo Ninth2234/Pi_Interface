@@ -4,3 +4,6 @@
 [submodule "lib/encoderLib"]
 	path = lib/encoderLib
 	url = https://github.com/BramRausch/encoderLib.git
+[submodule "lib/picozero"]
+	path = lib/picozero
+	url = https://github.com/RaspberryPiFoundation/picozero
