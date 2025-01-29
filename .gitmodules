@@ -1,3 +1,6 @@
 [submodule "lib/ST7567"]
 	path = lib/ST7567
 	url = https://github.com/ChangboBro/ST7567-micropython-framebuff.git
+[submodule "lib/encoderLib"]
+	path = lib/encoderLib
+	url = https://github.com/BramRausch/encoderLib.git
